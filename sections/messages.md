@@ -51,4 +51,4 @@ Update Message
 curl -X POST -H 'Authorization: OAuth Add-Your-OAuth2-Token-Here' -d "title=your-title&link=your-link&desc_md=your-desc-in-markdown" http://handpick.me/api/v1/messages/(your-message-id).json
 ```
 
-This will return a `201 Created`.
+This will return a `200 Success`.
