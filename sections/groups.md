@@ -1,7 +1,7 @@
 Groups
 ======
 
-Get groups
+GET Groups
 ----------
 
 `GET /groups.json` will return all your Groups you own
@@ -34,5 +34,5 @@ curl -H 'Authorization: OAuth Add-Your-OAuth2-Token-Here' http://handpick.me/api
 "user_id":"4f812fd28b6684000a000001",
 "utc_delivery_time":"2012-05-07T00:00:00Z",
 "utc_hour":0,
-"utc_minute":0}]
+"utc_minute":0}, ...]
 ```

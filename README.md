@@ -1,7 +1,7 @@
 Handpick Developer API
 ============
 
-The API for Handpick is currently in beta but I'm already using it for the iOS app. I might make mior changes and improvements but I'll try to keep everything as it is.
+The API for Handpick is currently in beta but I'm already using it for the iOS app. I might make minor changes and improvements but I'll try to keep everything as it is.
 
 If you're planning to connect Handpick with your app, let me know!
 
