@@ -31,9 +31,9 @@ curl -H 'Authorization: OAuth Add-Your-OAuth2-Token-Here' http://handpick.me/api
 API Endpoints
 -------------
 
-* [Groups]
-* [GroupMessages]
-* [Messages]
+* [Groups](https://github.com/alvinlai/handpick-api/blob/master/sections/groups.md)
+* [GroupMessages](https://github.com/alvinlai/handpick-api/blob/master/sections/group_messages.md)
+* [Messages](https://github.com/alvinlai/handpick-api/blob/master/sections/messages.md)
 
 Help improve Handpick's API
 ---------------------------
