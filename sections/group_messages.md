@@ -21,4 +21,8 @@ Create GroupMessage
 
 `POST /groups/(your-group-id)/group_messages.json` will a new GroupMessage in your Group.
 
+```shell
+curl -X POST -H 'Authorization: OAuth Add-Your-OAuth2-Token-Here' -d "title=your-title&link=your-link&desc_md=your-desc-in-markdown" http://handpick.me/api/v1/groups/(your-group-id-here)/groups_messages.json
+```
+
 This will return a `201 Created`.
