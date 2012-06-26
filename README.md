@@ -24,7 +24,9 @@ Making a request
 
 Remember to add the `Authorization` header with `OAuth Add-Your-OAuth2-Token-Here`. Here's an example using Curl:
 
-  curl -H 'Authorization: OAuth Add-Your-OAuth2-Token-Here' http://handpick.me/api/v1/groups.json
+```shell
+curl -H 'Authorization: OAuth Add-Your-OAuth2-Token-Here' http://handpick.me/api/v1/groups.json
+```
 
 API Endpoints
 -------------
