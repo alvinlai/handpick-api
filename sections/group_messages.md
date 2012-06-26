@@ -19,7 +19,7 @@ curl -H 'Authorization: OAuth Add-Your-OAuth2-Token-Here' http://handpick.me/api
 Update GroupMessage
 -------------------
 
-`POST /group_messages/(your-group-message-id).json` will a new GroupMessage in your Group.
+`POST /group_messages/(your-group-message-id).json` will update an existing GroupMessage.
 
 ```shell
 curl -X POST -H 'Authorization: OAuth Add-Your-OAuth2-Token-Here' -d "title=your-title&link=your-link&desc_md=your-desc-in-markdown" http://handpick.me/api/v1/groups_messages/(your-group-message-id).json

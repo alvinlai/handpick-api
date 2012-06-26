@@ -1,7 +1,7 @@
 Groups
 ======
 
-GET Groups
+Get Groups
 ----------
 
 `GET /groups.json` will return all your Groups you own
